@@ -1,0 +1,14 @@
+C:\Users\D1313\OneDrive\Рабочий стол\Ejednevnik\Ejednevnik\bin\Debug\net6.0\Ejednevnik.exe
+C:\Users\D1313\OneDrive\Рабочий стол\Ejednevnik\Ejednevnik\bin\Debug\net6.0\Ejednevnik.deps.json
+C:\Users\D1313\OneDrive\Рабочий стол\Ejednevnik\Ejednevnik\bin\Debug\net6.0\Ejednevnik.runtimeconfig.json
+C:\Users\D1313\OneDrive\Рабочий стол\Ejednevnik\Ejednevnik\bin\Debug\net6.0\Ejednevnik.dll
+C:\Users\D1313\OneDrive\Рабочий стол\Ejednevnik\Ejednevnik\bin\Debug\net6.0\Ejednevnik.pdb
+C:\Users\D1313\OneDrive\Рабочий стол\Ejednevnik\Ejednevnik\obj\Debug\net6.0\Ejednevnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D1313\OneDrive\Рабочий стол\Ejednevnik\Ejednevnik\obj\Debug\net6.0\Ejednevnik.AssemblyInfoInputs.cache
+C:\Users\D1313\OneDrive\Рабочий стол\Ejednevnik\Ejednevnik\obj\Debug\net6.0\Ejednevnik.AssemblyInfo.cs
+C:\Users\D1313\OneDrive\Рабочий стол\Ejednevnik\Ejednevnik\obj\Debug\net6.0\Ejednevnik.csproj.CoreCompileInputs.cache
+C:\Users\D1313\OneDrive\Рабочий стол\Ejednevnik\Ejednevnik\obj\Debug\net6.0\Ejednevnik.dll
+C:\Users\D1313\OneDrive\Рабочий стол\Ejednevnik\Ejednevnik\obj\Debug\net6.0\refint\Ejednevnik.dll
+C:\Users\D1313\OneDrive\Рабочий стол\Ejednevnik\Ejednevnik\obj\Debug\net6.0\Ejednevnik.pdb
+C:\Users\D1313\OneDrive\Рабочий стол\Ejednevnik\Ejednevnik\obj\Debug\net6.0\Ejednevnik.genruntimeconfig.cache
+C:\Users\D1313\OneDrive\Рабочий стол\Ejednevnik\Ejednevnik\obj\Debug\net6.0\ref\Ejednevnik.dll
